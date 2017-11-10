@@ -1,4 +1,4 @@
-# IndividueelProjectID
+# Individueel Project ID
 The data I am going to use is about victims of hacking. I have data about the amount of hacking in years and ages. I want to show you how many people are victim of cybercrime. Sort by age, kind of crime and declare.
 
 ## Barchart
