@@ -133,4 +133,6 @@ http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=82465ned&D1=124-134&D2=0&
 Released under the GNU General Public License, version 3. 
 Released under the The MIT License. 
 
-![Debug grafiek](preview.png)
+![barchart](preview1.png)
+![linechart](preview2.png)
+![groupedchart](preview3.png)
