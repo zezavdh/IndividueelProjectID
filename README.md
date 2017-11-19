@@ -4,6 +4,9 @@ The data I am going to use is about victims of hacking. I have data about the am
 ## Barchart
 First I am going to show a barchart about how many people are victims of hacking. The data is sort by ages.
 
+## Link
+View [here](https://zezavdh.github.io/barchart.html) the charts online.
+
 ## Linechart
 What I will show in this graph is the kind of crimes that were committed. I will show the data from 2012 till 2014. You can see the data is reduced.
 The data I am going to use is about every crime in percent. 
